@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic Book Catalogue</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Book Catalogue</h1>
+
+    <!-- Search and Filter Controls -->
+    <div id="controls">
+        <input type="text" id="search" placeholder="Search by title...">
+        <select id="sort">
+            <option value="title">Sort by Title</option>
+            <option value="author">Sort by Author</option>
+            <option value="date">Sort by Date</option>
+        </select>
+        <select id="filter">
+            <option value="">Filter by Genre</option>
+            <option value="Classic">Classic</option>
+            <option value="Historical Fiction">Historical Fiction</option>
+            <option value="Dystopian">Dystopian</option>
+        </select>
+    </div>
+
+    <!-- Book List Container -->
+    <div id="book-container"></div>
+
+    <!-- Pagination Controls -->
+    <div id="pagination-controls"></div>
+
+    <!-- Error Message Container -->
+    <div id="error-message" style="display:none;"></div>
+
+    <script src="scripts.js"></script>
+</body>
+</html>

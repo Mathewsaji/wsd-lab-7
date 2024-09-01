@@ -1,0 +1,40 @@
+{
+    "books": [
+      {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "date": "1925",
+        "genre": "Classic",
+        "cover": "https://www.alvahnbeldinglibrary.org/site-assets/book-images/great-gatsby.jpg"
+      },
+      {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "date": "1960",
+        "genre": "Historical Fiction",
+        "cover": "https://example.com//https://commons.wikimedia.org/wiki/File:To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg"
+      },
+      {
+        "title": "1984",
+        "author": "George Orwell",
+        "date": "1949",
+        "genre": "Dystopian",
+        "cover": "https://example.com/https://commons.wikimedia.org/wiki/File:Nineteen_Eighty-Four_cover_Soviet_1984.jpg"
+      },
+      {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "date": "1951",
+        "genre": "Classic",
+        "cover": "https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye#/media/File:The_Catcher_in_the_Rye_(1951,_first_edition_cover).jpg"
+      },
+      {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "date": "1932",
+        "genre": "Dystopian",
+        "cover": "https://www.alvahnbeldinglibrary.org/site-assets/book-images/brave-new-world.jpg"
+      }
+    ]
+  }
+  
